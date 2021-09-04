@@ -33,7 +33,8 @@ MIT
 
 **Free Software, Hell Yeah!**
 
-![Alt Text](https://j.gifs.com/287KWP.gif)
+![](https://j.gifs.com/287KWP.gif)
+
 ![Screenshot](assets/screenshots/home.png)
 ![Screenshot](assets/screenshots/to_do.png)
 ![Screenshot](assets/screenshots/to_do2.png)
