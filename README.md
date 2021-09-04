@@ -1,5 +1,7 @@
 # Layout app
 
+![](https://j.gifs.com/287KWP.gif)
+
 ## _Framework: React native_
 
 ## Features
@@ -33,7 +35,6 @@ MIT
 
 **Free Software, Hell Yeah!**
 
-![grab-landing-page](https://j.gifs.com/287KWP.gif)
 ![Screenshot](assets/screenshots/home.png)
 ![Screenshot](assets/screenshots/to_do.png)
 ![Screenshot](assets/screenshots/to_do2.png)
